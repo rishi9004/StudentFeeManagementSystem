@@ -1,0 +1,6 @@
+AUTOMATED TEST SUMMARY
+======================
+Test Case 1 - Add Student: PASS (exit code 0)
+Test Case 2 - Full Payment: PASS (exit code 0)
+Test Case 3 - Above-Due Payment Rejected: PASS (exit code 0)
+Test Case 4 - Partial Payment and Pending Dues: PASS (exit code 0)
