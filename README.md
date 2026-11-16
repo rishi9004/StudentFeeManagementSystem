@@ -129,3 +129,15 @@ Example:
 ```
 
 Do not manually change a student's paid amount beyond the course fee. Back up `fees.txt` before manually editing records.
+Project Mentor
+
+
+
+
+Mentored by: Mr. Satyaprakash Sethy
+
+GitHub: "@SATYAPRAKASHSETHY" (https://github.com/SATYAPRAKASHSETHY)
+
+Role: Python Mentor / Technical Guide
+
+Special thanks to Mr. Satyaprakash Sethy for his valuable mentorship and technical guidance throughout this project.
